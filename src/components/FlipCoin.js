@@ -69,7 +69,7 @@ class FlipCoin extends Component {
                     <figure>
                         <img 
                             src={flipCoinImg} 
-                            alt="Flipping coin" 
+                            alt="Moving image of hand flipping a coin" 
                             className="p-3 rounded-circle"
                             width="200"
                             height="200"
@@ -82,7 +82,7 @@ class FlipCoin extends Component {
                     <figure>
                         <img 
                             src={logoImg}
-                            alt="Placeholder" 
+                            alt="Animated yellow emoji man with glasses" 
                             className="p-3"
                             width="240"
                             height="200"
